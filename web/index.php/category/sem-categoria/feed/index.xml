@@ -12,7 +12,7 @@
 	<atom:link href="https://gmsarates.github.io/pacc/web/index.php/category/sem-categoria/feed/" rel="self" type="application/rss+xml" />
 	<link>https://gmsarates.github.io/pacc/web</link>
 	<description>Só mais um site WordPress</description>
-	<lastBuildDate>Wed, 20 Oct 2021 01:22:59 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 21 Oct 2021 23:23:47 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,10 +29,33 @@
 				<category><![CDATA[Sem categoria]]></category>
 		<guid isPermaLink="false">https://gmsarates.github.io/pacc/web/?p=1</guid>
 
-					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non metus eget augue posuere faucibus vel pharetra velit. Sed a elementum arcu. Morbi id posuere lectus, id euismod dui. Nullam finibus odio dapibus, gravida diam sed, elementum elit. Praesent sit amet nunc nibh. Aenean nunc lorem, vulputate vel nisl id, maximus aliquam tortor. Etiam leo&#8230; <a class="more-link" href="https://gmsarates.github.io/pacc/web/index.php/2021/10/19/ola-mundo/">Continuar lendo <span class="screen-reader-text">Sobre o Golfe</span></a>]]></description>
-										<content:encoded><![CDATA[
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non metus eget augue posuere faucibus vel pharetra velit. Sed a elementum arcu. Morbi id posuere lectus, id euismod dui. Nullam finibus odio dapibus, gravida diam sed, elementum elit. Praesent sit amet nunc nibh. Aenean nunc lorem, vulputate vel nisl id, maximus aliquam tortor. Etiam leo lacus, pellentesque a leo vel, ornare iaculis nunc. Class aptent taciti sociosqu ad litora torquent per conubia nostra,arius iD</p>
-]]></content:encoded>
+					<description><![CDATA[What is Lorem Ipsum? Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also&#8230; <a class="more-link" href="https://gmsarates.github.io/pacc/web/index.php/2021/10/19/ola-mundo/">Continuar lendo <span class="screen-reader-text">Sobre o Golfe</span></a>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-32fb7685 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="32fb7685" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-70b157ea" data-id="70b157ea" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2f4ddc72 elementor-widget elementor-widget-text-editor" data-id="2f4ddc72" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<!-- wp:paragraph -->
+<div>
+<h3>What is Lorem Ipsum?</h3>
+<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+</div>
+<div>
+<h3>Why do we use it?</h3>
+<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for &#8216;lorem ipsum&#8217; will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+</div>
+<!-- /wp:paragraph -->						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
 					
 					<wfw:commentRss>https://gmsarates.github.io/pacc/web/index.php/2021/10/19/ola-mundo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
