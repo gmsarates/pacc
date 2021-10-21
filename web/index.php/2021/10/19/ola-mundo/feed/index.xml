@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentários sobre: Sobre o Golfe	</title>
-	<atom:link href="https://gmsarates.github.io/pacc/index.php/2021/10/19/ola-mundo/feed/" rel="self" type="application/rss+xml" />
-	<link>https://gmsarates.github.io/pacc/index.php/2021/10/19/ola-mundo/</link>
+	<atom:link href="https://gmsarates.github.io/pacc/web/index.php/2021/10/19/ola-mundo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gmsarates.github.io/pacc/web/index.php/2021/10/19/ola-mundo/</link>
 	<description>Só mais um site WordPress</description>
 	<lastBuildDate>Wed, 20 Oct 2021 01:22:59 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Por: Um comentarista do WordPress		</title>
-		<link>https://gmsarates.github.io/pacc/index.php/2021/10/19/ola-mundo/#comment-1</link>
+		<link>https://gmsarates.github.io/pacc/web/index.php/2021/10/19/ola-mundo/#comment-1</link>
 
 		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
 		<pubDate>Tue, 19 Oct 2021 23:44:28 +0000</pubDate>
-		<guid isPermaLink="false">https://gmsarates.github.io/pacc/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://gmsarates.github.io/pacc/web/?p=1#comment-1</guid>
 
 					<description><![CDATA[Olá, isso é um comentário.
 Para começar a moderar, editar e excluir comentários, visite a tela de Comentários no painel.
